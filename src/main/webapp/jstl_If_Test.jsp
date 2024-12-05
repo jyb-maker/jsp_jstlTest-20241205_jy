@@ -39,7 +39,6 @@
 		<c:otherwise>
 			<h1>가</h1>		
 		</c:otherwise>
-	</c:choose>	
-	
+	</c:choose>
 </body>
 </html>
